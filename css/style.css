@@ -1,0 +1,74 @@
+body{
+  overflow: hidden;
+}
+textarea{
+  border: 1px solid #333
+}
+
+/* 横幅 */
+.site-width{
+  width:960px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:0;
+  margin-bottom: 0;
+}
+
+.centering{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:0;
+  margin-bottom: 0;
+  display: block;
+}
+
+
+/* ヘッダー */
+header{
+  height: 50px;
+  background: green;
+}
+
+
+/* フォーマット入力 */
+.format-inputuser-layout{
+  border: 1px solid #333;
+  margin-left: 5%;
+  margin-bottom: 1%;
+}
+
+.format-form-layout{
+  overflow: hidden;
+}
+.format-input-layout{
+  float: left;
+  width:40%;
+  margin-left: 5%;
+}
+.format-example-container-layout{
+  float: left;
+  width:40%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.format-example-layout{
+  width:100%;
+}
+.format-btn-layout{
+  display: block;
+  border:1px solid #333;
+  width :50px;
+  margin-left: 5%;
+}
+
+
+/*  */
+.inputbox-container-layout{
+  width: 40%;
+  float: left;
+}
+
+.makingTweet-layout{
+  width: 40%;
+  float: left;
+}
