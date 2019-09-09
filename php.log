@@ -4545,3 +4545,4783 @@ KAIZEN大事！ https://t.co/UWCHHTRpwZ
 
 )
 
+[09-Sep-2019 23:36:39 Asia/Tokyo] index.php アクセス : gakisan8273
+[09-Sep-2019 23:36:40 Asia/Tokyo] レスポンス : Array
+(
+    [0] => Array
+        (
+            [created_at] => Mon Sep 09 10:19:20 +0000 2019
+            [id] => 1171005156378308608
+            [id_str] => 1171005156378308608
+            [full_text] => 久々に残業ー
+2時間も残るなんて会社員のやることじゃないね
+明らかに疲れてる
+
+夜はワードプレスやる！
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 51
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 6
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [1] => Array
+        (
+            [created_at] => Sun Sep 08 16:02:18 +0000 2019
+            [id] => 1170729081538670592
+            [id_str] => 1170729081538670592
+            [full_text] => 災害が少ない群馬にみんな移住するといいよ https://t.co/n7lwUAWGeA
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 20
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => https://t.co/n7lwUAWGeA
+                                    [expanded_url] => https://twitter.com/jyokyoku/status/1170711539113852928
+                                    [display_url] => twitter.com/jyokyoku/statu…
+                                    [indices] => Array
+                                        (
+                                            [0] => 21
+                                            [1] => 44
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 1
+            [quoted_status_id] => 1170711539113852928
+            [quoted_status_id_str] => 1170711539113852928
+            [quoted_status_permalink] => Array
+                (
+                    [url] => https://t.co/n7lwUAWGeA
+                    [expanded] => https://twitter.com/jyokyoku/status/1170711539113852928
+                    [display] => twitter.com/jyokyoku/statu…
+                )
+
+            [quoted_status] => Array
+                (
+                    [created_at] => Sun Sep 08 14:52:36 +0000 2019
+                    [id] => 1170711539113852928
+                    [id_str] => 1170711539113852928
+                    [full_text] => 群馬住まいとしては同じ関東でも、全く台風の影響なさそうで他人事である…。
+風速7mって、冬の空っ風のほうがはるかに強いわ。なめんな。 https://t.co/J01dVNP16a
+                    [truncated] => 
+                    [display_text_range] => Array
+                        (
+                            [0] => 0
+                            [1] => 66
+                        )
+
+                    [entities] => Array
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                )
+
+                            [media] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [id] => 1170711535359934464
+                                            [id_str] => 1170711535359934464
+                                            [indices] => Array
+                                                (
+                                                    [0] => 67
+                                                    [1] => 90
+                                                )
+
+                                            [media_url] => http://pbs.twimg.com/media/ED8z8E-UwAAkzOf.jpg
+                                            [media_url_https] => https://pbs.twimg.com/media/ED8z8E-UwAAkzOf.jpg
+                                            [url] => https://t.co/J01dVNP16a
+                                            [display_url] => pic.twitter.com/J01dVNP16a
+                                            [expanded_url] => https://twitter.com/jyokyoku/status/1170711539113852928/photo/1
+                                            [type] => photo
+                                            [sizes] => Array
+                                                (
+                                                    [thumb] => Array
+                                                        (
+                                                            [w] => 150
+                                                            [h] => 150
+                                                            [resize] => crop
+                                                        )
+
+                                                    [medium] => Array
+                                                        (
+                                                            [w] => 750
+                                                            [h] => 688
+                                                            [resize] => fit
+                                                        )
+
+                                                    [large] => Array
+                                                        (
+                                                            [w] => 750
+                                                            [h] => 688
+                                                            [resize] => fit
+                                                        )
+
+                                                    [small] => Array
+                                                        (
+                                                            [w] => 680
+                                                            [h] => 624
+                                                            [resize] => fit
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [extended_entities] => Array
+                        (
+                            [media] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [id] => 1170711535359934464
+                                            [id_str] => 1170711535359934464
+                                            [indices] => Array
+                                                (
+                                                    [0] => 67
+                                                    [1] => 90
+                                                )
+
+                                            [media_url] => http://pbs.twimg.com/media/ED8z8E-UwAAkzOf.jpg
+                                            [media_url_https] => https://pbs.twimg.com/media/ED8z8E-UwAAkzOf.jpg
+                                            [url] => https://t.co/J01dVNP16a
+                                            [display_url] => pic.twitter.com/J01dVNP16a
+                                            [expanded_url] => https://twitter.com/jyokyoku/status/1170711539113852928/photo/1
+                                            [type] => photo
+                                            [sizes] => Array
+                                                (
+                                                    [thumb] => Array
+                                                        (
+                                                            [w] => 150
+                                                            [h] => 150
+                                                            [resize] => crop
+                                                        )
+
+                                                    [medium] => Array
+                                                        (
+                                                            [w] => 750
+                                                            [h] => 688
+                                                            [resize] => fit
+                                                        )
+
+                                                    [large] => Array
+                                                        (
+                                                            [w] => 750
+                                                            [h] => 688
+                                                            [resize] => fit
+                                                        )
+
+                                                    [small] => Array
+                                                        (
+                                                            [w] => 680
+                                                            [h] => 624
+                                                            [resize] => fit
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => Array
+                        (
+                            [id] => 42226961
+                            [id_str] => 42226961
+                            [name] => 家富 正幸@WordPressシステム開発
+                            [screen_name] => jyokyoku
+                            [location] => 
+                            [description] => WordPressを使ったシステム開発が得意なプログラマー（兼ディレクター）です。社内システムから不動産管理システム、Eラーニングサイト等のベースにWordPressを使った開発をしています。スプラトゥーンと筋トレと旅行が趣味。マッスルプログラマーを目指して日々ジムでマシンと格闘中。
+                            [url] => https://t.co/djouVdKp6I
+                            [entities] => Array
+                                (
+                                    [url] => Array
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [url] => https://t.co/djouVdKp6I
+                                                            [expanded_url] => http://inspire-design.net
+                                                            [display_url] => inspire-design.net
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 23
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [description] => Array
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 548
+                            [friends_count] => 481
+                            [listed_count] => 52
+                            [created_at] => Sun May 24 15:23:40 +0000 2009
+                            [favourites_count] => 177
+                            [utc_offset] => 
+                            [time_zone] => 
+                            [geo_enabled] => 1
+                            [verified] => 
+                            [statuses_count] => 6935
+                            [lang] => 
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => 131516
+                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme14/bg.gif
+                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme14/bg.gif
+                            [profile_background_tile] => 1
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/782212204296667136/BsbRkQiD_normal.jpg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/782212204296667136/BsbRkQiD_normal.jpg
+                            [profile_link_color] => 94D487
+                            [profile_sidebar_border_color] => 829D5E
+                            [profile_sidebar_fill_color] => 99CC33
+                            [profile_text_color] => 3E4415
+                            [profile_use_background_image] => 1
+                            [has_extended_profile] => 
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                            [translator_type] => none
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => Array
+                        (
+                            [id] => b3df68dc0a706338
+                            [url] => https://api.twitter.com/1.1/geo/id/b3df68dc0a706338.json
+                            [place_type] => city
+                            [name] => 前橋市
+                            [full_name] => 群馬 前橋市
+                            [country_code] => JP
+                            [country] => 日本
+                            [contained_within] => Array
+                                (
+                                )
+
+                            [bounding_box] => Array
+                                (
+                                    [type] => Polygon
+                                    [coordinates] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [0] => 139.001673
+                                                            [1] => 36.316415
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [0] => 139.230347
+                                                            [1] => 36.316415
+                                                        )
+
+                                                    [2] => Array
+                                                        (
+                                                            [0] => 139.230347
+                                                            [1] => 36.562503
+                                                        )
+
+                                                    [3] => Array
+                                                        (
+                                                            [0] => 139.001673
+                                                            [1] => 36.562503
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                )
+
+                        )
+
+                    [contributors] => 
+                    [is_quote_status] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 1
+                    [favorited] => 
+                    [retweeted] => 
+                    [possibly_sensitive] => 
+                    [lang] => ja
+                )
+
+            [retweet_count] => 0
+            [favorite_count] => 3
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => ja
+        )
+
+    [2] => Array
+        (
+            [created_at] => Sun Sep 08 15:15:11 +0000 2019
+            [id] => 1170717221191999488
+            [id_str] => 1170717221191999488
+            [full_text] => Day:95
+Today:3h / Total:270h
+(内執筆:3h / Total:12.5h)
+#xhack勉強会 レポート作成
+
+やっと完成した！！ 12.5hかかった😇
+https://t.co/BbQdUtr1YZ
+
+文章としてアウトプットすることで、知識がより自分のものになる
+体感しました。
+
+#ウェブカツ
+Posted by:https://t.co/lJGQrvJk6L
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 196
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => xhack勉強会
+                                    [indices] => Array
+                                        (
+                                            [0] => 52
+                                            [1] => 61
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [text] => ウェブカツ
+                                    [indices] => Array
+                                        (
+                                            [0] => 156
+                                            [1] => 162
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => https://t.co/BbQdUtr1YZ
+                                    [expanded_url] => https://note.mu/mintdaa/n/nb01c23931cde
+                                    [display_url] => note.mu/mintdaa/n/nb01…
+                                    [indices] => Array
+                                        (
+                                            [0] => 91
+                                            [1] => 114
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [url] => https://t.co/lJGQrvJk6L
+                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                    [display_url] => gakisan8273.com/reportsupporte…
+                                    [indices] => Array
+                                        (
+                                            [0] => 173
+                                            [1] => 196
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 3
+            [favorite_count] => 38
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => ja
+        )
+
+    [3] => Array
+        (
+            [created_at] => Sun Sep 08 14:59:53 +0000 2019
+            [id] => 1170713372985188353
+            [id_str] => 1170713372985188353
+            [full_text] => きたぜ、夜泣きだ
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 8
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 3
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [4] => Array
+        (
+            [created_at] => Sun Sep 08 14:02:10 +0000 2019
+            [id] => 1170698848332763137
+            [id_str] => 1170698848332763137
+            [full_text] => #xhack勉強会 のレポートにそこそこ反響があって嬉しい
+
+これって、製造業ではまずありえないこと
+（技術は企業のノウハウになるので公にならない）
+
+web業界いいよなあ…がんばろ
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 91
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => xhack勉強会
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 9
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 17
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [5] => Array
+        (
+            [created_at] => Sun Sep 08 13:11:32 +0000 2019
+            [id] => 1170686105693257728
+            [id_str] => 1170686105693257728
+            [full_text] => これで松田さんから1000円巻き上げられるのと、
+HTTPリクエストがなんたるかがレポート書くうちに分かってきて嬉しい
+
+ツール作ってる途中はレポ内容のことを実際理解できていなかったけど、人に説明するためよく調べてくうちに理解してきた
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 117
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 2
+            [favorite_count] => 11
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [6] => Array
+        (
+            [created_at] => Sun Sep 08 12:50:38 +0000 2019
+            [id] => 1170680845448794119
+            [id_str] => 1170680845448794119
+            [full_text] => #xhack勉強会 の参加レポート書きあがりました！！！
+
+「JavaScriptと無料APIを駆使してウェブアプリ開発ハンズオン」（2019年8月18日）
+
+勉強会でAPIを学んだ結果、Twitter APIを用いた自作webアプリリリースまで自走できたお話です
+
+もっと勉強会いきたいよう
+
+#xhack
+https://t.co/BbQdUtr1YZ
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 178
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => xhack勉強会
+                                    [indices] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 9
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [text] => xhack
+                                    [indices] => Array
+                                        (
+                                            [0] => 148
+                                            [1] => 154
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => https://t.co/BbQdUtr1YZ
+                                    [expanded_url] => https://note.mu/mintdaa/n/nb01c23931cde
+                                    [display_url] => note.mu/mintdaa/n/nb01…
+                                    [indices] => Array
+                                        (
+                                            [0] => 155
+                                            [1] => 178
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 10
+            [favorite_count] => 52
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => ja
+        )
+
+    [7] => Array
+        (
+            [created_at] => Sun Sep 08 10:50:46 +0000 2019
+            [id] => 1170650680920395777
+            [id_str] => 1170650680920395777
+            [full_text] => noteで下書きしてる時に目次表示できないんか…
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 24
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 3
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [8] => Array
+        (
+            [created_at] => Sun Sep 08 04:16:26 +0000 2019
+            [id] => 1170551442907643905
+            [id_str] => 1170551442907643905
+            [full_text] => ちょっとした隙間時間にスマホから作業しようとするんだけど、ぜんぜん集中できず時間終わってしまう😇
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 48
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 8
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [9] => Array
+        (
+            [created_at] => Sat Sep 07 16:55:34 +0000 2019
+            [id] => 1170380098408570881
+            [id_str] => 1170380098408570881
+            [full_text] => 最近下の子の夜泣きがひどい
+ついにこの時がきてしまったか…
+あと1年はつづくかなー
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 41
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 14
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [10] => Array
+        (
+            [created_at] => Sat Sep 07 16:46:03 +0000 2019
+            [id] => 1170377702563434496
+            [id_str] => 1170377702563434496
+            [full_text] => Day:94
+Today:2h / Total:267h
+(内執筆:2h / Total:9.5h)
+#xhack勉強会 レポート作成
+
+レポート書きながらAPIの復習をしてアウトプットすることで、ものすごく頭に入ってくる
+勉強会に限らず、開発経緯をブログとかに残す習慣をつけたほうがいいな😇
+
+#ウェブカツ
+Posted by:https://t.co/lJGQrvJk6L
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 188
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => xhack勉強会
+                                    [indices] => Array
+                                        (
+                                            [0] => 51
+                                            [1] => 60
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [text] => ウェブカツ
+                                    [indices] => Array
+                                        (
+                                            [0] => 148
+                                            [1] => 154
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => https://t.co/lJGQrvJk6L
+                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                    [display_url] => gakisan8273.com/reportsupporte…
+                                    [indices] => Array
+                                        (
+                                            [0] => 165
+                                            [1] => 188
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 2
+            [favorite_count] => 37
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => ja
+        )
+
+    [11] => Array
+        (
+            [created_at] => Fri Sep 06 16:33:50 +0000 2019
+            [id] => 1170012242131263489
+            [id_str] => 1170012242131263489
+            [full_text] => Wordpress部解禁されてるー！
+note書き終わったらやるぞおおおおお
+
+#ウェブカツ
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 46
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => ウェブカツ
+                                    [indices] => Array
+                                        (
+                                            [0] => 40
+                                            [1] => 46
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 23
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [12] => Array
+        (
+            [created_at] => Fri Sep 06 15:51:24 +0000 2019
+            [id] => 1170001561948319744
+            [id_str] => 1170001561948319744
+            [full_text] => Day:93
+Today:0h / Total:265h
+(内執筆:3h / Total:7.5h)
+#xhack勉強会 レポート作成
+
+つらつらつらと〜
+技術プレゼンは得意だけど、魅せるレポートを書くのは難しいな😅
+それにしても自分のレポート、コード少なっ
+
+#ウェブカツ
+Posted by:https://t.co/lJGQrvJk6L
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 171
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => xhack勉強会
+                                    [indices] => Array
+                                        (
+                                            [0] => 51
+                                            [1] => 60
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [text] => ウェブカツ
+                                    [indices] => Array
+                                        (
+                                            [0] => 131
+                                            [1] => 137
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => https://t.co/lJGQrvJk6L
+                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                    [display_url] => gakisan8273.com/reportsupporte…
+                                    [indices] => Array
+                                        (
+                                            [0] => 148
+                                            [1] => 171
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 28
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => ja
+        )
+
+    [13] => Array
+        (
+            [created_at] => Fri Sep 06 14:03:43 +0000 2019
+            [id] => 1169974461535113216
+            [id_str] => 1169974461535113216
+            [full_text] => 勉強会レポなかなか進まない😂
+いや進んでるんだけど、あれもこれも書きたくなってきりがないな
+
+これを説明したい → その前にはこれが必要 → その前には…
+
+いい塩梅で諦めないとな
+さじ加減が難しい！
+
+「何を伝えたいか」明確にして書こう😇
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 120
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 2
+            [favorite_count] => 19
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [14] => Array
+        (
+            [created_at] => Fri Sep 06 03:49:45 +0000 2019
+            [id] => 1169819953018458115
+            [id_str] => 1169819953018458115
+            [full_text] => よく寝ると日中の元気さが違う！！快調！！
+今日頑張れる！！
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 29
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 4
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [15] => Array
+        (
+            [created_at] => Thu Sep 05 22:11:23 +0000 2019
+            [id] => 1169734797578534912
+            [id_str] => 1169734797578534912
+            [full_text] => Day92
+Today / Total : 0h / 262h
+(内執筆分 : 0h / 4.5h)
+#xhack勉強会 レポート作成
+
+9時寝で作業せず！
+寝る間削ってツール作ってた反動が来た😂
+よく寝たので今日からまた頑張ろう
+
+#ウェブカツ
+Posted by:https://t.co/lJGQrvJk6L
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 157
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => xhack勉強会
+                                    [indices] => Array
+                                        (
+                                            [0] => 51
+                                            [1] => 60
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [text] => ウェブカツ
+                                    [indices] => Array
+                                        (
+                                            [0] => 117
+                                            [1] => 123
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => https://t.co/lJGQrvJk6L
+                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                    [display_url] => gakisan8273.com/reportsupporte…
+                                    [indices] => Array
+                                        (
+                                            [0] => 134
+                                            [1] => 157
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 36
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => ja
+        )
+
+    [16] => Array
+        (
+            [created_at] => Thu Sep 05 03:44:32 +0000 2019
+            [id] => 1169456252000202753
+            [id_str] => 1169456252000202753
+            [full_text] => 内定報告ほんとめでたい！
+自分は本当にどうするかぐるぐる悩んでしまった😮
+ゴールは時間的経済的自由を得ること、そのためにまず転職って手段もあるよな…
+地方だからと決めつけずにもっと視野広げて見るべきかな
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 101
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 45
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [17] => Array
+        (
+            [created_at] => Wed Sep 04 16:44:39 +0000 2019
+            [id] => 1169290188117307392
+            [id_str] => 1169290188117307392
+            [full_text] => Day:91
+Today:0h
+Total:257h
+#xhack勉強会 レポート作成（Total: 4.5h）
+
+普段こういう記事書かないから慣れない😅
+これがすらすら書けるようなら、頭の中が整理されているってことだよな
+
+訓練も兼ねて、これから積極的に情報発信してこ！！
+
+#ウェブカツ
+Posted by:https://t.co/lJGQrvJk6L
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 179
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => xhack勉強会
+                                    [indices] => Array
+                                        (
+                                            [0] => 27
+                                            [1] => 36
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [text] => ウェブカツ
+                                    [indices] => Array
+                                        (
+                                            [0] => 139
+                                            [1] => 145
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => https://t.co/lJGQrvJk6L
+                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                    [display_url] => gakisan8273.com/reportsupporte…
+                                    [indices] => Array
+                                        (
+                                            [0] => 156
+                                            [1] => 179
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 27
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => ja
+        )
+
+    [18] => Array
+        (
+            [created_at] => Wed Sep 04 15:16:59 +0000 2019
+            [id] => 1169268123456815104
+            [id_str] => 1169268123456815104
+            [full_text] => 僕のツール使ってくれてる人がそこそこいてくれるようで、作った甲斐あったなーと一人悦に入る☺️
+
+こういうwebアプリでも、もしターゲットの絶対数が多ければ収益化図れるんじゃないか…
+
+作りたいものはいくつかあるから、収益化まで考えて作ってみようかな🧐
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 125
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 1
+            [favorite_count] => 25
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [19] => Array
+        (
+            [created_at] => Tue Sep 03 22:38:47 +0000 2019
+            [id] => 1169016918428258322
+            [id_str] => 1169016918428258322
+            [full_text] => 朝活（トミカシステム） https://t.co/Sqqx0k29U1
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 11
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                    [media] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 1169016908303261696
+                                    [id_str] => 1169016908303261696
+                                    [indices] => Array
+                                        (
+                                            [0] => 12
+                                            [1] => 35
+                                        )
+
+                                    [media_url] => http://pbs.twimg.com/media/EDkurzPXYAAS_mm.jpg
+                                    [media_url_https] => https://pbs.twimg.com/media/EDkurzPXYAAS_mm.jpg
+                                    [url] => https://t.co/Sqqx0k29U1
+                                    [display_url] => pic.twitter.com/Sqqx0k29U1
+                                    [expanded_url] => https://twitter.com/gakisan8273/status/1169016918428258322/photo/1
+                                    [type] => photo
+                                    [sizes] => Array
+                                        (
+                                            [thumb] => Array
+                                                (
+                                                    [w] => 150
+                                                    [h] => 150
+                                                    [resize] => crop
+                                                )
+
+                                            [medium] => Array
+                                                (
+                                                    [w] => 1200
+                                                    [h] => 900
+                                                    [resize] => fit
+                                                )
+
+                                            [small] => Array
+                                                (
+                                                    [w] => 680
+                                                    [h] => 510
+                                                    [resize] => fit
+                                                )
+
+                                            [large] => Array
+                                                (
+                                                    [w] => 2048
+                                                    [h] => 1536
+                                                    [resize] => fit
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [extended_entities] => Array
+                (
+                    [media] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 1169016908303261696
+                                    [id_str] => 1169016908303261696
+                                    [indices] => Array
+                                        (
+                                            [0] => 12
+                                            [1] => 35
+                                        )
+
+                                    [media_url] => http://pbs.twimg.com/media/EDkurzPXYAAS_mm.jpg
+                                    [media_url_https] => https://pbs.twimg.com/media/EDkurzPXYAAS_mm.jpg
+                                    [url] => https://t.co/Sqqx0k29U1
+                                    [display_url] => pic.twitter.com/Sqqx0k29U1
+                                    [expanded_url] => https://twitter.com/gakisan8273/status/1169016918428258322/photo/1
+                                    [type] => photo
+                                    [sizes] => Array
+                                        (
+                                            [thumb] => Array
+                                                (
+                                                    [w] => 150
+                                                    [h] => 150
+                                                    [resize] => crop
+                                                )
+
+                                            [medium] => Array
+                                                (
+                                                    [w] => 1200
+                                                    [h] => 900
+                                                    [resize] => fit
+                                                )
+
+                                            [small] => Array
+                                                (
+                                                    [w] => 680
+                                                    [h] => 510
+                                                    [resize] => fit
+                                                )
+
+                                            [large] => Array
+                                                (
+                                                    [w] => 2048
+                                                    [h] => 1536
+                                                    [resize] => fit
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 10
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => ja
+        )
+
+    [20] => Array
+        (
+            [created_at] => Tue Sep 03 16:27:41 +0000 2019
+            [id] => 1168923528361586690
+            [id_str] => 1168923528361586690
+            [full_text] => KAIZENのソウルを持つことが最も大事！
+さあみんなでKAIZEN💪🏻 https://t.co/QzIPbiglVf
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 36
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => https://t.co/QzIPbiglVf
+                                    [expanded_url] => https://twitter.com/sato86134114/status/1168912568427188226
+                                    [display_url] => twitter.com/sato86134114/s…
+                                    [indices] => Array
+                                        (
+                                            [0] => 37
+                                            [1] => 60
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 1
+            [quoted_status_id] => 1168912568427188226
+            [quoted_status_id_str] => 1168912568427188226
+            [quoted_status_permalink] => Array
+                (
+                    [url] => https://t.co/QzIPbiglVf
+                    [expanded] => https://twitter.com/sato86134114/status/1168912568427188226
+                    [display] => twitter.com/sato86134114/s…
+                )
+
+            [quoted_status] => Array
+                (
+                    [created_at] => Tue Sep 03 15:44:08 +0000 2019
+                    [id] => 1168912568427188226
+                    [id_str] => 1168912568427188226
+                    [full_text] => がきさん@gakisan8273のツールすごいなぁ。
+https://t.co/44gSr0lj4J
+
+ああいうツールを作れるようになる気がしないのは、勉強不足だからかなー。
+そもそもの理解度がないからかなー。
+
+今日は寝よう。。
+明日からもがんばるしかない。
+
+#ウェブカツ
+                    [truncated] => 
+                    [display_text_range] => Array
+                        (
+                            [0] => 0
+                            [1] => 138
+                        )
+
+                    [entities] => Array
+                        (
+                            [hashtags] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => ウェブカツ
+                                            [indices] => Array
+                                                (
+                                                    [0] => 132
+                                                    [1] => 138
+                                                )
+
+                                        )
+
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [screen_name] => gakisan8273
+                                            [name] => がき@地方で強く生きていく
+                                            [id] => 1130503281271222272
+                                            [id_str] => 1130503281271222272
+                                            [indices] => Array
+                                                (
+                                                    [0] => 4
+                                                    [1] => 16
+                                                )
+
+                                        )
+
+                                )
+
+                            [urls] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [url] => https://t.co/44gSr0lj4J
+                                            [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                            [display_url] => gakisan8273.com/reportsupporte…
+                                            [indices] => Array
+                                                (
+                                                    [0] => 27
+                                                    [1] => 50
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => Array
+                        (
+                            [id] => 862285305528819712
+                            [id_str] => 862285305528819712
+                            [name] => ryohei sato@ウェブカツ
+                            [screen_name] => SATO86134114
+                            [location] => 日本
+                            [description] => エンジニア目指して勉強中。
+
+ウェブカツ本入部　19.6.29~
+ 無言フォロー失礼します。
+                            [url] => 
+                            [entities] => Array
+                                (
+                                    [description] => Array
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 1105
+                            [friends_count] => 1832
+                            [listed_count] => 5
+                            [created_at] => Wed May 10 12:36:52 +0000 2017
+                            [favourites_count] => 4814
+                            [utc_offset] => 
+                            [time_zone] => 
+                            [geo_enabled] => 1
+                            [verified] => 
+                            [statuses_count] => 526
+                            [lang] => 
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => 000000
+                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/1139170704769802240/PlsKNz_L_normal.png
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/1139170704769802240/PlsKNz_L_normal.png
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/862285305528819712/1563893248
+                            [profile_link_color] => 1B95E0
+                            [profile_sidebar_border_color] => 000000
+                            [profile_sidebar_fill_color] => 000000
+                            [profile_text_color] => 000000
+                            [profile_use_background_image] => 
+                            [has_extended_profile] => 1
+                            [default_profile] => 
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                            [translator_type] => none
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [is_quote_status] => 
+                    [retweet_count] => 0
+                    [favorite_count] => 24
+                    [favorited] => 
+                    [retweeted] => 
+                    [possibly_sensitive] => 
+                    [lang] => ja
+                )
+
+            [retweet_count] => 0
+            [favorite_count] => 2
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => ja
+        )
+
+    [21] => Array
+        (
+            [created_at] => Tue Sep 03 15:47:26 +0000 2019
+            [id] => 1168913398320566272
+            [id_str] => 1168913398320566272
+            [full_text] => 洗濯物を干し忘れていた…
+あれほど勉強前にやっておけと
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 27
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 7
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [22] => Array
+        (
+            [created_at] => Tue Sep 03 15:36:03 +0000 2019
+            [id] => 1168910536337235971
+            [id_str] => 1168910536337235971
+            [full_text] => 最近睡眠時間削りすぎ…熱中するとつい夜中までやってしまう😇
+終わろう
+
+布団で意識なくなる直前までプログラミングのこと考えてるんだもん、訓練されたウェブカツ生だよほんと
+
+#ウェブカツ
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 92
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => ウェブカツ
+                                    [indices] => Array
+                                        (
+                                            [0] => 86
+                                            [1] => 92
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 30
+            [favorited] => 
+            [retweeted] => 
+            [lang] => ja
+        )
+
+    [23] => Array
+        (
+            [created_at] => Tue Sep 03 14:58:09 +0000 2019
+            [id] => 1168900996619210752
+            [id_str] => 1168900996619210752
+            [full_text] => Day:90
+Today:0h
+Total:257h
+#hack勉強会 レポート作成
+
+webAPI勉強会のレポ作成中！
+
+勉強会内容を応用してTwitterAPIを利用したwebアプリを作った(下記リンク)のでレポート作成します😆
+
+こういうアウトプットも重要だよね
+Giveの精神😎
+
+#ウェブカツ
+Posted by:https://t.co/lJGQrw0Vvl
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 185
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [text] => hack勉強会
+                                    [indices] => Array
+                                        (
+                                            [0] => 27
+                                            [1] => 35
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [text] => ウェブカツ
+                                    [indices] => Array
+                                        (
+                                            [0] => 145
+                                            [1] => 151
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => https://t.co/lJGQrw0Vvl
+                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                    [display_url] => gakisan8273.com/reportsupporte…
+                                    [indices] => Array
+                                        (
+                                            [0] => 162
+                                            [1] => 185
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 
+            [retweet_count] => 0
+            [favorite_count] => 23
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => ja
+        )
+
+    [24] => Array
+        (
+            [created_at] => Tue Sep 03 12:16:13 +0000 2019
+            [id] => 1168860244732071936
+            [id_str] => 1168860244732071936
+            [full_text] => ぜひ時短のため活用ください！！！ https://t.co/wZ4Z386u40
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 16
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => https://t.co/wZ4Z386u40
+                                    [expanded_url] => https://twitter.com/bluenavy1300/status/1168854789041487872
+                                    [display_url] => twitter.com/bluenavy1300/s…
+                                    [indices] => Array
+                                        (
+                                            [0] => 17
+                                            [1] => 40
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 1
+            [quoted_status_id] => 1168854789041487872
+            [quoted_status_id_str] => 1168854789041487872
+            [quoted_status_permalink] => Array
+                (
+                    [url] => https://t.co/wZ4Z386u40
+                    [expanded] => https://twitter.com/bluenavy1300/status/1168854789041487872
+                    [display] => twitter.com/bluenavy1300/s…
+                )
+
+            [quoted_status] => Array
+                (
+                    [created_at] => Tue Sep 03 11:54:32 +0000 2019
+                    [id] => 1168854789041487872
+                    [id_str] => 1168854789041487872
+                    [full_text] => がきさんすごーーーーーー！！！！早速使わせてもらいました😆
+
+Day : 99　　　　　　　　　　
+Today : 1h / 補足 0h　　　
+Total : 128 / 補足 0 
+
+#ウェブカツ女性割引
+Posted by:https://t.co/bnHxUzaiSz
+                    [truncated] => 
+                    [display_text_range] => Array
+                        (
+                            [0] => 0
+                            [1] => 137
+                        )
+
+                    [entities] => Array
+                        (
+                            [hashtags] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => ウェブカツ女性割引
+                                            [indices] => Array
+                                                (
+                                                    [0] => 93
+                                                    [1] => 103
+                                                )
+
+                                        )
+
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [url] => https://t.co/bnHxUzaiSz
+                                            [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                            [display_url] => gakisan8273.com/reportsupporte…
+                                            [indices] => Array
+                                                (
+                                                    [0] => 114
+                                                    [1] => 137
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => Array
+                        (
+                            [id] => 1088344889664856064
+                            [id_str] => 1088344889664856064
+                            [name] => ナガヨシ
+                            [screen_name] => bluenavy1300
+                            [location] => 
+                            [description] => 只の主婦　日々思ったことつらつら　3児の母　群馬の田舎　夫はハゲつる　夫の頭にケーキのせる嫁　健康のためにヤクルトレディ始めました！ #ウェブカツ　も始めました(^^)現在30歳　　小１、年中、７ヶ月👦👧👶
+仕事歴　印刷会社(オフセット機のやつ)→家具屋→ヤクルトレディ
+                            [url] => 
+                            [entities] => Array
+                                (
+                                    [description] => Array
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 496
+                            [friends_count] => 728
+                            [listed_count] => 4
+                            [created_at] => Thu Jan 24 07:56:56 +0000 2019
+                            [favourites_count] => 3313
+                            [utc_offset] => 
+                            [time_zone] => 
+                            [geo_enabled] => 
+                            [verified] => 
+                            [statuses_count] => 189
+                            [lang] => 
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => F5F8FA
+                            [profile_background_image_url] => 
+                            [profile_background_image_url_https] => 
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/1162031836677042176/yo-VA4n6_normal.jpg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/1162031836677042176/yo-VA4n6_normal.jpg
+                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/1088344889664856064/1555249163
+                            [profile_link_color] => 1DA1F2
+                            [profile_sidebar_border_color] => C0DEED
+                            [profile_sidebar_fill_color] => DDEEF6
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 1
+                            [has_extended_profile] => 
+                            [default_profile] => 1
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                            [translator_type] => none
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [is_quote_status] => 
+                    [retweet_count] => 1
+                    [favorite_count] => 15
+                    [favorited] => 
+                    [retweeted] => 
+                    [possibly_sensitive] => 
+                    [lang] => ja
+                )
+
+            [retweet_count] => 0
+            [favorite_count] => 2
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => ja
+        )
+
+    [25] => Array
+        (
+            [created_at] => Tue Sep 03 08:50:24 +0000 2019
+            [id] => 1168808451209719808
+            [id_str] => 1168808451209719808
+            [full_text] => 開発方針を読み解いて頂けると非常に嬉しい😊 https://t.co/J3XDQylNbU
+            [truncated] => 
+            [display_text_range] => Array
+                (
+                    [0] => 0
+                    [1] => 21
+                )
+
+            [entities] => Array
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [url] => https://t.co/J3XDQylNbU
+                                    [expanded_url] => https://twitter.com/ukaprog/status/1168524794158968833
+                                    [display_url] => twitter.com/ukaprog/status…
+                                    [indices] => Array
+                                        (
+                                            [0] => 22
+                                            [1] => 45
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [source] => <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+            [in_reply_to_status_id] => 
+            [in_reply_to_status_id_str] => 
+            [in_reply_to_user_id] => 
+            [in_reply_to_user_id_str] => 
+            [in_reply_to_screen_name] => 
+            [user] => Array
+                (
+                    [id] => 1130503281271222272
+                    [id_str] => 1130503281271222272
+                    [name] => がき@地方で強く生きていく
+                    [screen_name] => gakisan8273
+                    [location] => グンマー
+                    [description] => 【楽しく生きる】ためお金の勉強をしている30代勤め人 / 収入源を増やすべく未経験からプログラミングを勉強中 / まずは副業で月5万稼ぐ！ / 効率化・システム化が大好物 / 2児の父 / 現職はメカエンジニア兼マネージャー / 転職3回出戻り有/
+
+学習進捗報告ツイート支援ツールを作成しました⬇︎
+                    [url] => https://t.co/yE0kDdw15y
+                    [entities] => Array
+                        (
+                            [url] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [url] => https://t.co/yE0kDdw15y
+                                                    [expanded_url] => http://gakisan8273.com/reportsupporter/
+                                                    [display_url] => gakisan8273.com/reportsupporte…
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 23
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => Array
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] => 
+                    [followers_count] => 916
+                    [friends_count] => 991
+                    [listed_count] => 8
+                    [created_at] => Mon May 20 15:59:20 +0000 2019
+                    [favourites_count] => 8791
+                    [utc_offset] => 
+                    [time_zone] => 
+                    [geo_enabled] => 
+                    [verified] => 
+                    [statuses_count] => 731
+                    [lang] => 
+                    [contributors_enabled] => 
+                    [is_translator] => 
+                    [is_translation_enabled] => 
+                    [profile_background_color] => F5F8FA
+                    [profile_background_image_url] => 
+                    [profile_background_image_url_https] => 
+                    [profile_background_tile] => 
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132304176694812673/0Zx6ddK9_normal.jpg
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1130503281271222272/1558797437
+                    [profile_link_color] => 1DA1F2
+                    [profile_sidebar_border_color] => C0DEED
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [has_extended_profile] => 1
+                    [default_profile] => 1
+                    [default_profile_image] => 
+                    [following] => 
+                    [follow_request_sent] => 
+                    [notifications] => 
+                    [translator_type] => none
+                )
+
+            [geo] => 
+            [coordinates] => 
+            [place] => 
+            [contributors] => 
+            [is_quote_status] => 1
+            [quoted_status_id] => 1168524794158968833
+            [quoted_status_id_str] => 1168524794158968833
+            [quoted_status_permalink] => Array
+                (
+                    [url] => https://t.co/J3XDQylNbU
+                    [expanded] => https://twitter.com/ukaprog/status/1168524794158968833
+                    [display] => twitter.com/ukaprog/status…
+                )
+
+            [quoted_status] => Array
+                (
+                    [created_at] => Mon Sep 02 14:03:15 +0000 2019
+                    [id] => 1168524794158968833
+                    [id_str] => 1168524794158968833
+                    [full_text] => このツールのすごいところは、ユーザー登録とかログインとかまだるっこしいことしないですぐ使えること。習った事を使いたい、という学習者の欲望を抑えて、目的からブレずにユーザー視点で開発されている。マジでかっこいいです。使います！ https://t.co/taHuiNfIh2
+                    [truncated] => 
+                    [display_text_range] => Array
+                        (
+                            [0] => 0
+                            [1] => 112
+                        )
+
+                    [entities] => Array
+                        (
+                            [hashtags] => Array
+                                (
+                                )
+
+                            [symbols] => Array
+                                (
+                                )
+
+                            [user_mentions] => Array
+                                (
+                                )
+
+                            [urls] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [url] => https://t.co/taHuiNfIh2
+                                            [expanded_url] => https://twitter.com/gakisan8273/status/1168506773461856256
+                                            [display_url] => twitter.com/gakisan8273/st…
+                                            [indices] => Array
+                                                (
+                                                    [0] => 113
+                                                    [1] => 136
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [source] => <a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>
+                    [in_reply_to_status_id] => 
+                    [in_reply_to_status_id_str] => 
+                    [in_reply_to_user_id] => 
+                    [in_reply_to_user_id_str] => 
+                    [in_reply_to_screen_name] => 
+                    [user] => Array
+                        (
+                            [id] => 1047723821002776576
+                            [id_str] => 1047723821002776576
+                            [name] => うかつ🦔
+                            [screen_name] => ukaprog
+                            [location] => 
+                            [description] => 趣味と実益のプログラミング学習中のアラサー母親一年生 #ウェブカツ女性割引 学習記録を報告しています 9/6〜12/6 卒業試験
+                            [url] => https://t.co/ulGIAyxTat
+                            [entities] => Array
+                                (
+                                    [url] => Array
+                                        (
+                                            [urls] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [url] => https://t.co/ulGIAyxTat
+                                                            [expanded_url] => http://web-u-katsu.hatenablog.com
+                                                            [display_url] => web-u-katsu.hatenablog.com
+                                                            [indices] => Array
+                                                                (
+                                                                    [0] => 0
+                                                                    [1] => 23
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [description] => Array
+                                        (
+                                            [urls] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                )
+
+                            [protected] => 
+                            [followers_count] => 962
+                            [friends_count] => 711
+                            [listed_count] => 16
+                            [created_at] => Thu Oct 04 05:43:19 +0000 2018
+                            [favourites_count] => 3788
+                            [utc_offset] => 
+                            [time_zone] => 
+                            [geo_enabled] => 1
+                            [verified] => 
+                            [statuses_count] => 1722
+                            [lang] => 
+                            [contributors_enabled] => 
+                            [is_translator] => 
+                            [is_translation_enabled] => 
+                            [profile_background_color] => F5F8FA
+                            [profile_background_image_url] => 
+                            [profile_background_image_url_https] => 
+                            [profile_background_tile] => 
+                            [profile_image_url] => http://pbs.twimg.com/profile_images/1128149600689315840/MzdkKp2R_normal.jpg
+                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/1128149600689315840/MzdkKp2R_normal.jpg
+                            [profile_link_color] => 1DA1F2
+                            [profile_sidebar_border_color] => C0DEED
+                            [profile_sidebar_fill_color] => DDEEF6
+                            [profile_text_color] => 333333
+                            [profile_use_background_image] => 1
+                            [has_extended_profile] => 
+                            [default_profile] => 1
+                            [default_profile_image] => 
+                            [following] => 
+                            [follow_request_sent] => 
+                            [notifications] => 
+                            [translator_type] => none
+                        )
+
+                    [geo] => 
+                    [coordinates] => 
+                    [place] => 
+                    [contributors] => 
+                    [is_quote_status] => 1
+                    [quoted_status_id] => 1168506773461856256
+                    [quoted_status_id_str] => 1168506773461856256
+                    [quoted_status_permalink] => Array
+                        (
+                            [url] => https://t.co/taHuiNfIh2
+                            [expanded] => https://twitter.com/gakisan8273/status/1168506773461856256
+                            [display] => twitter.com/gakisan8273/st…
+                        )
+
+                    [retweet_count] => 2
+                    [favorite_count] => 9
+                    [favorited] => 
+                    [retweeted] => 
+                    [possibly_sensitive] => 
+                    [lang] => ja
+                )
+
+            [retweet_count] => 0
+            [favorite_count] => 2
+            [favorited] => 
+            [retweeted] => 
+            [possibly_sensitive] => 
+            [lang] => ja
+        )
+
+)
+
+[09-Sep-2019 23:36:44 Asia/Tokyo] resister.php アクセス : gakisan8273
+[09-Sep-2019 23:36:45 Asia/Tokyo] calcday.php アクセス : gakisan8273
+[09-Sep-2019 23:36:50 Asia/Tokyo] readme.php アクセス : gakisan8273
+[09-Sep-2019 23:40:29 Asia/Tokyo] readme.php アクセス : gakisan8273

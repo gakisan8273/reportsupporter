@@ -71,6 +71,7 @@ debug('readme.php アクセス',$_SESSION['user']);
   <li>本文を入力する</li>
   <li>ツイートする</li>
 </ol>
+<p>詳細は<a href="https://note.mu/mintdaa/n/nb01c23931cde">こちらのnote</a>に記載されています</p>
 
 <h2>使い方</h2>
 <p>PCからのアクセス推奨です。スマホにも一応対応しています</p>
@@ -83,6 +84,7 @@ debug('readme.php アクセス',$_SESSION['user']);
 <h3>お問い合わせ</h3>
 <p>できるだけ説明なしに使えるように配慮したつもりです</p>
 <p>不明点・疑問点・苦情・応援・意見などあれば<a href="https://twitter.com/gakisan8273">僕のTwitterアカウント</a>まで連絡ください</p>
+
 
 </div>
 
