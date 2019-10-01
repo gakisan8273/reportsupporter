@@ -35,7 +35,8 @@ $_SESSION['login_limit'] = time() + $sesLimit;
 // 指定ユーザーのタイムラインから、指定ワードがあるものを5件抽出する
 
 //token.phpで取得したベアラートークン
-$bearerToken = 'AAAAAAAAAAAAAAAAAAAAAOMX%2FgAAAAAAmEq%2BIldSMnN9oRRtoJGes3%2BRMpU%3D4UULIYUd4S8hcPFCw5RpbETMwb2yBiM34f47F0sLPrbWyuFDzy';
+require('token.php');
+
 //ユーザーのタイムライン
 // https://developer.twitter.com/en/docs/tweets/timelines/api-reference/get-statuses-user_timeline　から
 $requestUrl ='https://api.twitter.com/1.1/statuses/user_timeline.json';
@@ -119,7 +120,7 @@ if(empty($_SESSION['user'])){
 
 
 	$tweets = json_decode($json, true); //jsonを連想配列に変換 falseだとオブジェクトに変換
-	debug('レスポンス',$tweets);
+	// debug('レスポンス',$tweets);
 
 	//ツイートクラスを作ってみる
 	class Tweets{
@@ -279,9 +280,10 @@ if(empty($_SESSION['user'])){
 			$tmp3 = strtotime($this->getCreatedAt());
 			$nowTweetHour = (int)(date("H", time() ) );
 			$latestTweetHour = (int)(date("H", $tmp3));
-
+			$tmp3 = 0;
 			if($nowTweetHour < 18){ //ここの数字は、セッターで指定できるようにする
 				$diffDays--;//今のツイート時刻が18時未満だったら、日数計算結果から１を引く
+				$tmp3--;
 			}
 			if($latestTweetHour < 18){
 				$diffDays++;//最新ツイート時刻が18時未満だったら、日数計算結果に１を足す
@@ -303,7 +305,7 @@ if(empty($_SESSION['user'])){
 					//起算日と今の日付の差
 					$startDay =  strtotime($_SESSION['startdate'] ); //yyyy-mm-dd形式 をunixに変換してから足す
 					// debug('starDay',$startDay);
-					$days =  ($tmp1 - $startDay)/(60*60*24) + 1;
+					$days =  ($tmp1 - $startDay)/(60*60*24) + 1 + $tmp3;
 					if(empty($startDay)){
 						$days = 1;
 					}
@@ -505,6 +507,10 @@ EOT;
 			<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 		</form>
 		
+		<div class="mt-4 mb-4">
+    	<small><a target="_blank" href="https://ofuse.me/#users/13507">もっと応援してくれる人はこちら</a></small>
+		</div>
+
 		</div>
 		<!-- ツイート提案 -->
 		<section class="form-group col-sm-4">

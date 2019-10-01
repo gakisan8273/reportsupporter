@@ -73,7 +73,7 @@ $(function(){
   $(".js-addurl").on("change",function(){
     // console.log('チェックボックス変化');
     word = 'Posted by:'
-    url = 'http://gakisan8273.com/reportsupporter/'
+    url = 'https://gakisan8273.com/reportsupporter/'
     if($(this).prop('checked')){
       // console.log('チェックボックスON');
       addedTweet = $('.js-proposedTweet').val() + '\r\n' + word + url;
