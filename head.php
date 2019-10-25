@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<script src="https://cdn.lr-ingest.io/LogRocket.min.js" crossorigin="anonymous"></script>
-<script>window.LogRocket && window.LogRocket.init('kwp7e8/gakisan');</script>
+<!--<script src="https://cdn.lr-ingest.io/LogRocket.min.js" crossorigin="anonymous"></script>-->
+<!--<script>window.LogRocket && window.LogRocket.init('kwp7e8/gakisan');</script>-->
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118005303-2"></script>
   <script>

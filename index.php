@@ -51,6 +51,11 @@ if(empty($_SESSION['user'])){
 	header("Location:readme.php");
 	exit();
 }else{
+
+	if($_SESSION['user'] === 'JOKOJOKO405'){
+		echo '<script>alert("じょこさん　Google！！")</script>';
+	}
+
 	//リクエストURLにパラメータを追加
 	// debug('セッションにユーザー名が保存されています');
 	$count = 100;
@@ -471,63 +476,69 @@ EOT;
 
 <div class="container">
 	
-	<div class="form-row d-flex">
+	<div class="row">
 
-		<div class="col-sm-4">
-			<div class="form-group row">
-				<label for="">　 　 　 　 　</label><br>
-				<label class="col-sm-3">本日の値</label>
-				<label style="display:none" class="col-sm-3 d-sm-inline-block">前回の値</label>
-			</div>
-			<div class="form-group row">
-				<label for="" class="col-sm-3">Day</label>
-				<input type="text" class="js-replace-day form-control col-sm-3"
-				placeholder = "<?php echo ( !empty( ( $tweet[0]->calcTodayStudyDays() ) ) )? htmlspecialchars($tweet[0]->calcTodayStudyDays() ): '' ; ?>"
-				value       = "<?php echo ( !empty( ( $tweet[0]->calcTodayStudyDays() ) ) )? htmlspecialchars($tweet[0]->calcTodayStudyDays() ): '' ; ?>" >
-				<input disabled style="display:none" class="form-control col-sm-3 d-sm-inline-block" type="text"
-				placeholder = "<?php echo ( !empty( ( $tweet[0]->getPreviousDays() ) ) )? htmlspecialchars($tweet[0]->getPreviousDays() ): '' ; ?>"
-				value       = "<?php echo ( !empty($todayTweet) )? htmlspecialchars( $todayTweet->getStudyDaysTotal() ): '' ; ?>">
-			</div>
-			<!-- {}の数だけinput boxを生成　[]は１つ固定 -->
-				<?php for($i = 0 ; $i < $_SESSION['number_count'];$i++):?>
-				<div class="form-group row">
-					<label for="" class="col-sm-3">Time-<?php echo $i+1?></label>
-					<input type="text" value="" class="js-replace-time form-control col-sm-3">
-					<input type="text" disabled style="display:none" class="form-control col-sm-3 d-sm-inline-block" value="<?php echo !empty( $tweet[0]->getPreviousTimes()[$i] )? htmlspecialchars( $tweet[0]->getPreviousTimes()[$i] ):'' ?>">
-				</div>
-		<?php endfor;?>
+<!--  数字入力欄　-->
+		<div class="col-sm-4 order-sm-1">
+            <table class="table">
+                <tr><th class="w-25"></th><th class="w-25">本日の値</th><th class="w-25">前回の値</th></tr>
+                <tr><td class="align-middle">Day</td>
+                    <td><input type="text" class="js-replace-day form-control"
+                                           placeholder = "<?php echo ( !empty( ( $tweet[0]->calcTodayStudyDays() ) ) )? htmlspecialchars($tweet[0]->calcTodayStudyDays() ): '' ; ?>"
+                                           value       = "<?php echo ( !empty( ( $tweet[0]->calcTodayStudyDays() ) ) )? htmlspecialchars($tweet[0]->calcTodayStudyDays() ): '' ; ?>" >
+                    </td>
+                    <td><input disabled class="form-control d-sm-inline-block" type="text"
+                                        placeholder = "<?php echo ( !empty( ( $tweet[0]->getPreviousDays() ) ) )? htmlspecialchars($tweet[0]->getPreviousDays() ): '' ; ?>"
+                                        value       = "<?php echo ( !empty($todayTweet) )? htmlspecialchars( $todayTweet->getStudyDaysTotal() ): '' ; ?>">
+                    </td></tr>
 
-		<form action="https://twitter.com/compose/tweet" method="get">
-			<textarea class="js-postTweet" style="display:none;" name="text" id="" cols="30" rows="10"></textarea>
-			<div class="form-check mb-2">
-				<input class="form-check-input js-addurl" name="addurl" type="checkbox" id="check1a" value="1">
-				<label class="form-check-label" for="check1a">作成者を応援する<br><small>(本文最下部にURLが表示されます)</small></label>
-			</div>
-			<button class="btn btn-primary col-sm-10"><i class="fab fa-twitter"></i>　ツイート画面へ</button>
-			<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-		</form>
-		
-		<div class="mt-4 mb-4">
-    	<small><a target="_blank" href="https://ofuse.me/#users/13507">もっと応援してくれる人はこちら</a></small>
-		</div>
+                <!-- {}の数だけinput boxを生成　[]は１つ固定 -->
+                <?php for($i = 0 ; $i < $_SESSION['number_count'];$i++):?>
+                    <tr><td class="align-middle"">Time-<?php echo $i+1?></td>
+                        <td><input type="text" value="" class="js-replace-time form-control"></td>
+                        <td><input type="text" disabled class="form-control d-sm-inline-block" value="<?php echo !empty( $tweet[0]->getPreviousTimes()[$i] )? htmlspecialchars( $tweet[0]->getPreviousTimes()[$i] ):'' ?>"></td>
+                    </tr>
+                <?php endfor;?>
+            </table>
+        </div>
 
-		</div>
+
 		<!-- ツイート提案 -->
-		<section class="form-group col-sm-4">
+		<section class="form-group col-sm-4 order-sm-2">
 			<label>報告ツイート生成</label><br>
 			<label> <?php echo date('Y-m-d H:i', time())?></label>
-			<textarea class="js-proposedTweet form-control" name="" id="" cols="30" rows="15"><?php echo htmlspecialchars( $template )?></textarea>
-			<span class="form-text text-muted"><small>ctrl + command + space で絵文字が入力できます</small></span>
-		</section>
-		
-		<section class="form-group col-sm-4">
+			<textarea class="js-proposedTweet form-control" name="" id="" cols="30" rows="12"><?php echo htmlspecialchars( $template )?></textarea>
+			<span class="form-text text-muted mb-4"><small>ctrl + command + space で絵文字が入力できます</small></span>
+
+
+            <!--   ツイートボタン     -->
+            <div class="justify-content-center">
+                <form action="https://twitter.com/compose/tweet" method="get">
+                    <textarea class="js-postTweet" style="display:none;" name="text" id="" cols="30" rows="15"></textarea>
+                    <div class="form-check mb-2">
+                        <input class="form-check-input js-addurl" name="addurl" type="checkbox" id="check1a" value="1">
+                        <label class="form-check-label" for="check1a">作成者を応援する<br><small>(本文最下部にURLが表示されます)</small></label>
+                    </div>
+                    <button class="btn btn-primary col-sm-12"><i class="fab fa-twitter"></i>　ツイート画面へ</button>
+                    <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+                </form>
+
+                <div class="mt-4 mb-4">
+                    <small><a target="_blank" href="https://ofuse.me/#users/13507">もっと応援してくれる人はこちら</a></small>
+                </div>
+            </div>
+
+        </section>
+
+		<section class="form-group col-sm-4 order-sm-3">
 			<!-- 過去ツイート -->
 			<!-- 高さを無駄のないように自動調整させる -->
 			<label>直近の報告ツイート</label><br>
 			<label> <?php echo htmlspecialchars($tweet[0]->getCreatedAt()) ?> </label>
-			<textarea class="form-control" disabled name="" id="" cols="30" rows="15"><?php echo htmlspecialchars($tweet[0]->getTweetText())?></textarea>
+			<textarea class="form-control" disabled name="" id="" cols="30" rows="12"><?php echo htmlspecialchars($tweet[0]->getTweetText())?></textarea>
 
 		</section>
+
 	</div>
 
 </div>

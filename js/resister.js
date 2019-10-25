@@ -17,6 +17,44 @@ $(function(){
     // console.log('フッター高さ変更');
   }else{
     // console.log('フッター高さ変更なし');
-  }  
+  }
+
+  //選択範囲の前後に{} または[] を挿入する
+
+$('.js-insert-day').on("click",function(){
+  var textarea = document.getElementsByClassName('js-format')[0];
+  var pos_start = textarea.selectionStart;
+  var pos_end = textarea.selectionEnd;
+  var val = textarea.value;
+  var range = val.slice(pos_start, pos_end);
+  var beforeNode = val.slice(0, pos_start);
+  var afterNode = val.slice(pos_end);
+  var insertNode = "[" + range + "]";
+  textarea.value = beforeNode + insertNode + afterNode;
+  });
+
+  $('.js-insert-time').on("click",function(){
+    var textarea = document.getElementsByClassName('js-format')[0];
+    var pos_start = textarea.selectionStart;
+    var pos_end = textarea.selectionEnd;
+    var val = textarea.value;
+    var range = val.slice(pos_start, pos_end);
+    var beforeNode = val.slice(0, pos_start);
+    var afterNode = val.slice(pos_end);
+    var insertNode = "{" + range + "}";
+    textarea.value = beforeNode + insertNode + afterNode;
+  });
+
+  $('.js-insert-copy').on("click",function(){
+    var textarea = document.getElementsByClassName('js-format')[0];
+    var pos_start = textarea.selectionStart;
+    var pos_end = textarea.selectionEnd;
+    var val = textarea.value;
+    var range = val.slice(pos_start, pos_end);
+    var beforeNode = val.slice(0, pos_start);
+    var afterNode = val.slice(pos_end);
+    var insertNode = "*---*" + range;
+    textarea.value = beforeNode + insertNode + afterNode;
+  });
 
 });

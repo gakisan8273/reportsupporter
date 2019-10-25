@@ -143,7 +143,7 @@ Total : {50時間30分} / 補足 {75h}
 // 毎回更新したい数字を{ } で囲う
 // 単位も囲うことができる
 // 前回ツイートからコピペしたい行は *---* を入力
-// ハッシュタグは含めない（上の入力欄に記入する）
+// ハッシュタグはここに記入するか、上の入力欄に記入する
 EOT;
 ?>
 
@@ -164,11 +164,11 @@ EOT;
       <label>UserName : </label>
       <div class="input-group">
         <div class="input-group-prepend"><div class="input-group-text">@</div></div>
-        <input class="form-control" type="text" name="user" value="<?php echo ($_SESSION['user'])? htmlspecialchars($_SESSION['user']) : '' ?>">
+        <input class="form-control" type="text" name="user" placeholder="twitterID @無しで入力" value="<?php echo ($_SESSION['user'])? htmlspecialchars($_SESSION['user']) : '' ?>">
       </div>
     </div>
 
-    <div class="form-group col-sm-6">
+    <div class="form-group col-sm-6 d-none d-sm-block">
       <label>(ex)UserName : </label>
       <div class="input-group">
         <div class="input-group-prepend"><div class="input-group-text">@</div></div>
@@ -186,11 +186,11 @@ EOT;
       <label>HashTags : </label>
       <div class="input-group">
         <!-- <div class="input-group-prepend"><div class="input-group-text">#</div></div> -->
-        <textarea cols="15" rows="5" class="form-control" type="text" name="hashTags"><?php echo ($_SESSION['hashTags'])? htmlspecialchars($_SESSION['hashTags']) : '' ?></textarea>
+        <textarea cols="15" rows="5" class="form-control" type="text" placeholder="ハッシュタグ #付きで入力" name="hashTags"><?php echo ($_SESSION['hashTags'])? htmlspecialchars($_SESSION['hashTags']) : '' ?></textarea>
       </div>
     </div>
 
-    <div class="form-group col-sm-6">
+    <div class="form-group col-sm-6 d-none d-sm-block">
       <label>(ex)HashTags : </label>
       <div class="input-group">
         <!-- <div class="input-group-prepend"><div class="input-group-text">#</div></div> -->
@@ -207,11 +207,18 @@ EOT;
     <div class="d-flex"><!-- 報告フォーマット入力------------------------------------------ -->
 
       <div class="form-group col-sm-6">
-        <label>Format : </label>
-        <textarea id="" cols="30" rows="11" name="tweet_format" class="form-control" value=""><?php echo ($_SESSION['tweet_format'])? htmlspecialchars($_SESSION['tweet_format']) : '' ?></textarea>
+        <label class="d-block">Format : </label>
+          <div class="mb-2">
+              <p class="d-inline-block small">選択範囲の前後に</p><br class="d-block d-sm-none">
+              <button type="button" class="small d-inline-block js-insert-day btn-info">[]を挿入(Day)</button>
+              <button type="button" class="small d-inline-block js-insert-time btn-info">{}を挿入(time)</button>
+              <button type="button" class="small d-inline-block js-insert-copy btn-info">*---*を挿入(コピペ行)</button>
+          </div>
+        <textarea id="" cols="30" rows="11" name="tweet_format" class="form-control js-format" placeholder="自分の過去ツイートから進捗報告ツイートをコピペし、下の'(ex)format' の規則を参考にして編集してください"
+                  value=""><?php echo ($_SESSION['tweet_format'])? htmlspecialchars($_SESSION['tweet_format']) : '' ?></textarea>
       </div>
 
-      <div class="form-group col-sm-6">
+      <div class="form-group col-sm-6 d-none d-sm-block">
         <label for="">(ex)Format : </label>
         <div class="d-flex align-content-between flex-wrap">
           <textarea readonly name="" id="" cols="30" rows="11" class="form-control"><?php echo $example1; ?></textarea>
@@ -220,9 +227,16 @@ EOT;
 
     </div>
 <!-- 報告フォーマット入力------------------------------------------ -->
-  <div class="d-flex justify-content-around">
+  <div id="ex-format" class="d-flex justify-content-around">
     <input type="submit" class="btn btn-primary col-sm-4" value="フォーマット登録">
-    <input type="" class="btn btn-primary col-sm-4 invisible">
+    <input type="" class="btn btn-primary col-sm-4 invisible d-none d-sm-block">
+  </div>
+
+  <div class="form-group col-sm-6 d-block d-sm-none mt-4">
+      <label for="">(ex)Format : </label>
+      <div class="d-flex align-content-between flex-wrap">
+          <textarea readonly name="" id="" cols="30" rows="11" class="form-control"><?php echo $example1; ?></textarea>
+      </div>
   </div>
 
 	</form>
