@@ -48,12 +48,14 @@ if(empty($_SESSION['user'])){
 	//ユーザーがセッションになければ何もしない
 	// debug('セッションにユーザ名がありません','');
 	// debug('はじめに画面へ遷移します');
-	header("Location:readme.php");
-	exit();
+	// header("Location:readme.php");
+	// exit();
+	// echo '<script>alert("フォーマットが登録されていません")</script>';
+	$_SESSION['user'] = 'sample';
 }else{
 
 	if($_SESSION['user'] === 'JOKOJOKO405'){
-		echo '<script>alert("じょこさん　Google！！")</script>';
+		// echo '<script>alert("じょこさん　Google！！")</script>';
 	}
 
 	//リクエストURLにパラメータを追加
